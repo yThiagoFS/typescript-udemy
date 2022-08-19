@@ -3,5 +3,6 @@ module.exports = {
     trailingComma: 'all',
     singleQuote:true,
     tabWidth: 2,
-    endOfLine: 'auto'
+    endOfLine: 'auto',
+    parser: 'typescript'
 }
