@@ -4,8 +4,10 @@ const objectA = {
 }
 // Posso alterar o valor da chave
 objectA.keyA = 'Another value'
+
 // Não posso criar uma nova chave
-objectA.keyC = 'New Key'
+
+// objectA.keyC = 'New Key' //
 
 // devo especificar o tipo de objeto
 
